@@ -26,9 +26,9 @@ Changing orientation resets to wrong position.
   
 ## Future
 -------
-Will not be updating this repository, except for maybe fix minor issues.  
+Will not be updating this repository, except for fixing minor issues that come up.  
 Feel free to submit pull requests for issues or improvements.
-Slowly working on a new version which is not hacked into RecyclerView
+Slowly working on a new version which is not hacked into RecyclerView.
 
 ## License
 -------
@@ -47,6 +47,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-
-[1]: /src/main/java/com/muller/snappingsample/SnappingRecyclerView.java
-[2]: /sample
+[1]: sample/src/main/java/com/muller/snappingsample/SnappingRecyclerView.java
+[2]: sample
