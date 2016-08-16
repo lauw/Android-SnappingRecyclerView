@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snapping RecyclerView Sample</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
