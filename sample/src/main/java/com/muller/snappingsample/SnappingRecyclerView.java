@@ -374,6 +374,13 @@ public class SnappingRecyclerView extends RecyclerView {
 
 		return computeHorizontalScrollOffset();
 	}
+	
+	/**
+	 * Returns the currently centered item aka the selected item
+	 */
+	public int getSelectedPosition() {
+        	return _selectedPosition;
+    	}
 
 	@Override
 	protected void onDetachedFromWindow() {
